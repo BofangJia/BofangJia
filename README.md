@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱🌱 I am an undergraduate student in the Department of Automation of Southwest University. Here I will update some relevant materials I have learned, including the content involved in the training program of the Department of Automation of Southwest University and the relevant content involved in the EECS (Electrical Engineering and Computer Sciences) major. I hope to make a completely open source knowledge base for other friends' reference.
-### 👯👯 I am also full of great interest in studying for a PhD, so I will also include some knowledge of relevant scientific research papers and codes.
-### 😄😄Please contact me at bfia1010@gmail.com /1539720586@qq.com if my content is in error or infringes upon your work.
+### 😄😄 I am also full of great interest in studying for a PhD, so I will also include some knowledge of relevant scientific research papers and codes.
+### 📫📫 Please contact me at bfia1010@gmail.com /1539720586@qq.com if my content is in error or infringes upon your work.
 <!--
 **BofangJia/BofangJia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
